@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONG - AYUDA A UN PELUDO</title>
+</head>
+<body align="center">
+    <H1 align="center"> 
+        ONG - AYUDA A UN PELUDO 
+    </H1>
+    <div align="center">
+        <p>
+            ONG destinada a la ayuda de animales
+        </p>
+    </div>
+    <h2 align="center">
+        Nuestros integrantes:
+    </h2>
+    <div align="center">
+        <li>
+            Persona 1 - cargo 1
+        </li>
+    </div>
+    <h2 align="center">
+        Nuestras secciones de ayuda:
+    </h2>
+    <div align="center">
+        Gatos
+    </div>
+    <div align="center">
+        Perros
+    </div>
+
+</body>
+</html>
